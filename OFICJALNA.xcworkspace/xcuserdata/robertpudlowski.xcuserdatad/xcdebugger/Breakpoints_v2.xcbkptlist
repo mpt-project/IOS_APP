@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OFICJALNA/Rejestracja.h"
+            timestampString = "536885353.795342"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "o"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Rejestracja has&#x142;o]"
+                  moduleName = "OFICJALNA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertpudlowski/Documents/APLIKACJA%20MOBILNA%20DO%20OBS%C5%81UGI%20ROBOTA%20ROPERIDER/OFICJALNA/Rejestracja.h"
+                  timestampString = "535150933.441898"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[Rejestracja setHas&#x142;o:]"
+                  moduleName = "OFICJALNA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertpudlowski/Documents/APLIKACJA%20MOBILNA%20DO%20OBS%C5%81UGI%20ROBOTA%20ROPERIDER/OFICJALNA/Rejestracja.h"
+                  timestampString = "535150933.456787"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OFICJALNA/WidokMenu.h"
+            timestampString = "536879435.491058"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "temp"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WidokMenu temp]"
+                  moduleName = "OFICJALNA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertpudlowski/Documents/BILLPLEASE/OFICJALNA/WidokMenu.h"
+                  timestampString = "536884646.4710521"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WidokMenu setTemp:]"
+                  moduleName = "OFICJALNA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertpudlowski/Documents/BILLPLEASE/OFICJALNA/WidokMenu.h"
+                  timestampString = "536884646.473079"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
